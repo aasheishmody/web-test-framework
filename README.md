@@ -61,5 +61,3 @@ Typescript
 ![image](https://user-images.githubusercontent.com/5993336/160019933-bf21c22b-0a38-495e-a1f5-4d62cc5c4542.png)
 ![image](https://user-images.githubusercontent.com/5993336/160020105-29510577-6052-4314-a070-4d7cd98217c7.png)
 ![image](https://user-images.githubusercontent.com/5993336/160020219-ecfaf829-0270-4835-ae6c-734a7a452489.png)
-
-![Uploading image.png…]()
