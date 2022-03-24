@@ -16,6 +16,13 @@ Safari
 Mozilla Firefox
 ```
 
+<b>To install dependencies</b>
+
+```
+npm install
+```
+
+
 <b>To run the tests</b>
 
 ```
