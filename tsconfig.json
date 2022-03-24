@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "lib": ["es2017", "dom"],
+    "types": [
+      "node",
+      "@wdio/cucumber-framework",
+      "expect-webdriverio",
+      "@wdio/cli",
+      "webdriverio/async",
+      "@wdio/selenium-standalone-service",
+      "webdriverio"
+    ],
+    "noEmit": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "baseUrl": "./"
+  }
+}
