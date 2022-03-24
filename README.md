@@ -3,7 +3,7 @@
 <b>Application under test</b>
 
 ```
-https://www.saucedemo.com/
+https://www.saucedemo.com
 ```
 
 <b>Prerequisites</b>
