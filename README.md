@@ -46,7 +46,15 @@ open .tmp/report/index.html in a browser
 <b>BDD</b> :heavy_check_mark:  
 <b>Cross Browser</b> :heavy_check_mark:  
 <b>Parallel run</b> :heavy_check_mark:  
-<b>Page Object Pattern</b> :heavy_check_mark:  
+<b>Page Object Pattern</b> :heavy_check_mark:
+
+<b>Tech Stack</b>
+
+```
+WDIO
+Cucumber
+Typescript
+```
 
 <b>Sample Test Report</b>
 
