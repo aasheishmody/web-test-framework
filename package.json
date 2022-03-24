@@ -5,8 +5,8 @@
   "repository": "",
   "license": "UNLICENSED",
   "scripts": {
-    "run": "HOST_URL=https://www.saucedemo.com npx wdio run ./wdio.conf.ts",
-    "run headless": "HOST_URL=https://www.saucedemo.com HEADLESS=headless npx wdio run ./wdio.conf.ts"
+    "run": "npx wdio run ./wdio.conf.ts",
+    "run headless": "HEADLESS=headless npx wdio run ./wdio.conf.ts"
   },
   "dependencies": {
     "@cucumber/cucumber": "^v7.3.1",
