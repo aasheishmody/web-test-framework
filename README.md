@@ -1,4 +1,4 @@
-# Enterprise level test framework for web applications in typescript
+# Enterprise level test framework for web applications in typescript for UI testing
 
 <b>Application under test</b>
 
